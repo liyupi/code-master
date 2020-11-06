@@ -2,9 +2,9 @@
 
 > 搞笑通俗的编程知识大百科
 
-在线阅读：https://code-master.liyupi.com
+阅读：https://code-master.liyupi.com
 
-## 漫画形式，轻松学知识
+## 漫画学知识
 
 <img src="_media/example.jpeg" width="300" alt="漫画形式" />
 
