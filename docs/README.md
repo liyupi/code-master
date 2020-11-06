@@ -2,7 +2,7 @@
 
 > 搞笑通俗的编程知识大百科
 
-在线阅读：https://code-master.vercel.app
+在线阅读：https://code-master.liyupi.com
 
 ## 漫画形式，轻松学知识
 
