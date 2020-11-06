@@ -8,7 +8,7 @@
 
 - 搞笑
 - 通俗
-- 不脱发 ‍
+- 不秃
 
 [GitHub](https://github.com/liyupi/code-master)
 [开始阅读](README.md)
